@@ -64,8 +64,8 @@
 
 #define MY_GATEWAY_ESP8266
 
-#define MY_WIFI_SSID "Sure_2G4"
-#define MY_WIFI_PASSWORD "Gms@1109"
+#define MY_WIFI_SSID "YourSSID"
+#define MY_WIFI_PASSWORD "YourPassword"
 
 // Enable UDP communication
 //#define MY_USE_UDP  // If using UDP you need to set MY_CONTROLLER_IP_ADDRESS or MY_CONTROLLER_URL_ADDRESS below
